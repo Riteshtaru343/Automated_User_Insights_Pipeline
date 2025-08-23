@@ -1,4 +1,4 @@
-# 🚀 Automated User Analytics Pipeline  
+# 🚀 Automated User Insights Pipeline  
 
 A **real-time data engineering pipeline** that fetches 👨‍💻, streams 🔄, processes ⚡, and stores 📦 user data—powered by **Airflow, Kafka, Spark, PostgreSQL, and Cassandra**.  
 
@@ -6,7 +6,7 @@ A **real-time data engineering pipeline** that fetches 👨‍💻, streams 🔄
 
 ## 📝 About the Project  
 
-The **Automated User Analytics Pipeline** simulates a **real-time analytics platform**. It automates **data ingestion, streaming, processing, and storage** to demonstrate modern data engineering practices.  
+The **Automated User Insights Pipeline** simulates a **real-time analytics platform**. It automates **data ingestion, streaming, processing, and storage** to demonstrate modern data engineering practices.  
 
 ---
 
