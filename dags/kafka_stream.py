@@ -10,7 +10,7 @@ from kafka import KafkaProducer
 import requests
 
 default_args = {
-    'owner': 'sumit mahajan',
+    'owner': 'Ritesh Taru',
     'start_date': datetime(2025, 8, 5, 10, 0)
 }
 
